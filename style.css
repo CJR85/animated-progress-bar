@@ -6,3 +6,24 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
+
+section {
+  margin: 10% 20%;
+}
+
+h2 {
+  font-size: 4rem;
+  padding: 2rem 0rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 2.5rem;
+  padding: 2rem 0rem;
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 175%;
+  color: rgb(30, 30, 30);
+}
